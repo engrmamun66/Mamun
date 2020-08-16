@@ -6,26 +6,9 @@ public class hello {
     }
 
 
-public static void asdlkfjasldfkj(string name){
-    System.out.println("three " + name);
+public static void message(string name){
+    System.out.println("Horray!! Now we are able to contribute on open source...");
 }
 
 
 }
-
-
-public static void gretting(string name){
-    System.out.println("Bye bye " + name);
-    THis line edited by MasterDev
-    This line is added by HasanDev
-    THis line added by Mamun-dev
-}
-
-
-
-asdfasdfasdfasdf
-
- This is a changed line
-}
-
-
